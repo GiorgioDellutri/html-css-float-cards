@@ -56,6 +56,10 @@ section.cards-area{
     clear: both;
 }
 
+.card:hover{
+    box-shadow: 5px 10px 10px rgb(255, 0, 0);
+}
+
 .card img{
     height: 100%;
     float: left;
@@ -78,3 +82,4 @@ div a{
     display: inline-block;
     color: #72c8e9;
 }
+
