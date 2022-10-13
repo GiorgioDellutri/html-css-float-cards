@@ -26,7 +26,7 @@ section>h1{
     font-size: 2.5rem;
 } 
 
-p{
+p:last-child{
     padding-top:2rem;
     margin: 1.5rem;
     font-size: 1rem;
