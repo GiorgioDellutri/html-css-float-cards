@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 body{
     font-family: 'Fredoka One', cursive;
     background-color: #fffffe;
@@ -19,6 +20,7 @@ section>h1{
     text-align: center;
     padding-top: 3rem;
     font-size: 2.5rem;
+    font-weight: bold;
 } 
 
 p{
@@ -46,7 +48,6 @@ section.cards-area{
     margin: 10px;
     float: left;
     box-shadow: 0 0 10px gray;
-
 }
 
 .card::after{
@@ -61,10 +62,12 @@ section.cards-area{
 }
 
 span{
+    display: inline-block;
     color: white;
     padding-left: 1rem;
-    padding-top: 4rem;
+    padding-top: 0.6rem;
 }
+
 
 a{
     color: #72c8e9;
