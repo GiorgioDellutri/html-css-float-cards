@@ -46,7 +46,7 @@ section.cards-area{
 
 .card{
     width: calc(100% /3 - 20px);    
-    height: 90px;
+    height: 100px;
     background-color: #0f0e17;
     margin: 10px;
     float: left;
@@ -72,7 +72,7 @@ div>span{
     display: inline-block;
     color: white;
     padding-left: 1rem;
-    padding-top: 0.6rem;
+    padding-top: 0.7rem;
     
 }
 
