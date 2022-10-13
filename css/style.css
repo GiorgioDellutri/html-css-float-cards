@@ -6,10 +6,11 @@
 
 body{
     font-family: 'Fredoka One', cursive;
+    background-color: #fffffe;
 }
 
 .container{
-    width: 70%;
+    width: 60%;
     margin: 0 auto;
 }
 
@@ -40,8 +41,8 @@ section.cards-area{
 
 .card{
     width: calc(100% /3 - 20px);    
-    height: 80px;
-    background-color: black;
+    height: 100px;
+    background-color: #0f0e17;
     margin: 10px;
     float: left;
     box-shadow: 0 0 10px gray;
@@ -59,7 +60,13 @@ section.cards-area{
     float: left;
 }
 
-span,h3{
-
+span{
     color: white;
+    padding-left: 1rem;
+    padding-top: 4rem;
+}
+
+a{
+    color: #72c8e9;
+    padding-left: 1rem;
 }
