@@ -61,15 +61,19 @@ section.cards-area{
     float: left;
 }
 
-span{
+div span{
     display: inline-block;
     color: white;
     padding-left: 1rem;
     padding-top: 0.6rem;
 }
 
-
-a{
-    color: #72c8e9;
+span,a{
     padding-left: 1rem;
+    padding-top: 0.6rem;
+}
+
+div a{
+    display: inline-block;
+    color: #72c8e9;
 }
