@@ -57,7 +57,7 @@ section.cards-area{
 }
 
 .card:hover{
-    box-shadow: 5px 10px 10px rgb(255, 0, 0);
+    box-shadow: 0 0 10px 5px rgb(237, 0, 0); 
 }
 
 .card img{
