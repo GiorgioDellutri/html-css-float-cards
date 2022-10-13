@@ -27,11 +27,14 @@ section>h1{
 } 
 
 p:last-child{
-    padding-top:2rem;
-    margin: 1.5rem;
+    padding-top:2.8em;
     font-size: 1rem;
     text-align: center;
     font-style: normal;
+}
+
+.box-cards{
+    margin-top: 40px;
 }
 
 .box-cards::after{
