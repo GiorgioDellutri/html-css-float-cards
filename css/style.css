@@ -73,9 +73,14 @@ div>span{
     
 }
 
+span.name{
+    font-weight: bolder;
+}
+
 span,a{
     padding-left: 1rem;
     padding-top: 0.2rem;
+
 }
 
 div a{
