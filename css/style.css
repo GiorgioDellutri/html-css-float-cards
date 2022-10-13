@@ -70,7 +70,7 @@ div>span{
     color: white;
     padding-left: 1rem;
     padding-top: 0.6rem;
-    font-weight: bold;
+    
 }
 
 span,a{
@@ -81,5 +81,6 @@ span,a{
 div a{
     display: inline-block;
     color: #72c8e9;
+    text-decoration: none;
 }
 
